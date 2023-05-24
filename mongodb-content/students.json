@@ -1,0 +1,49 @@
+[{
+  "college": "UNAPEC",
+  "name": "Ian Fernandez",
+  "tuiton": "20180408",
+  "career": "ISO",
+  "index": 3.1,
+  "graduated": true,
+  "gradDate": "2024-01-12"
+},{
+  "college": "UNAPEC",
+  "name": "Lore Torres",
+  "tuiton": "20191546",
+  "career": "ISO",
+  "index": 2.4,
+  "graduated": false,
+  "gradDate": ""
+},{
+  "college": "UNAPEC",
+  "name": "Fupre Pelaez",
+  "tuiton": "20200700",
+  "career": "ISO",
+  "index": 3.95,
+  "graduated": true,
+  "gradDate": "2024-01-12"
+},{
+  "college": "UNAPEC",
+  "name": "Roxanna Albur",
+  "tuiton": "20201236",
+  "career": "ISO",
+  "index": 4,
+  "graduated": true,
+  "gradDate": "2024-01-12"
+},{
+  "college": "UNAPEC",
+  "name": "Jose Vasquez",
+  "tuiton": "20194578",
+  "career": "ISO",
+  "index": 3,
+  "graduated": true,
+  "gradDate": "2024-01-12"
+},{
+  "college": "UNAPEC",
+  "name": "Jose Terrero",
+  "tuiton": "20170000",
+  "career": "ISO",
+  "index": 3.45,
+  "graduated": false,
+  "gradDate": ""
+}]

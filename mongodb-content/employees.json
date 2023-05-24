@@ -1,0 +1,57 @@
+[{
+  "employee": true,
+  "name": "Ian Fernandez",
+  "doc_num": "40226642821",
+  "doc_type": "C",
+  "1qbill": 20000,
+  "2qbill": 18474.48,
+  "acc_num": "1045789645"
+},{
+  "employee": false,
+  "name": "Lore Torres",
+  "doc_num": "40247852311",
+  "doc_type": "C",
+  "1qbill": 42000,
+  "2qbill": 28123.48,
+  "acc_num": "1054879865"
+},{
+  "employee": true,
+  "name": "Fupre Pelaez",
+  "doc_num": "RD78S256",
+  "doc_type": "P",
+  "1qbill": 74000,
+  "2qbill": 54852.48,
+  "acc_num": "5317594268"
+},{
+  "employee": true,
+  "name": "Roxanna Albur",
+  "doc_num": "00145898615",
+  "doc_type": "C",
+  "1qbill": 94000,
+  "2qbill": 70145.48,
+  "acc_num": "9517534862"
+},{
+  "employee": true,
+  "name": "Jose Vasquez",
+  "doc_num": "40200178945",
+  "doc_type": "C",
+  "1qbill": 10000,
+  "2qbill": 10000,
+  "acc_num": "4567891230"
+},{
+  "employee": true,
+  "name": "Leo Villar",
+  "doc_num": "FL54782D20",
+  "doc_type": "P",
+  "1qbill": 16000,
+  "2qbill": 16000,
+  "acc_num": "9876543210"
+},{
+  "employee": false,
+  "name": "Jose Terrero",
+  "doc_num": "MX45RF85",
+  "doc_type": "P",
+  "1qbill": 20000,
+  "2qbill": 18474.48,
+  "acc_num": "9876543210"
+}]
