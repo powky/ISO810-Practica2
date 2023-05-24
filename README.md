@@ -1,7 +1,9 @@
 # ISO810-Practica2
 
 Ian Fernandez - A00100600
+
 Roxanna Alburquerque - A00109167
+
 Jose del Orbe - A00107746
 
 Se requiere desarrollar un programa (push) que genere un archivo
